@@ -23,4 +23,4 @@
 > Agora você deve conseguir executar scripts.
 >
 > ---
-> Leia o **[aviso!](README.md)**
+> Leia o **[aviso!](aviso.md)**
