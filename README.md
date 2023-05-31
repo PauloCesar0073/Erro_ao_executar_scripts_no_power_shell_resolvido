@@ -1,2 +1,7 @@
-# Erro_ao_executar_scripts_no_power_shell_resolvido
- se você estiver tendo erros para executar scripts power Shell assim como estive,pode te ajudar.
+***
+**_Problemas  para ativar seu ambiente 
+virtual ? ,não consegue exxecutar scripts no Power Shell ?<br>
+esse Tutorial pode te ajudar !_**
+
+
+- [passo a passo](PASSO_A_PASSO.md)
