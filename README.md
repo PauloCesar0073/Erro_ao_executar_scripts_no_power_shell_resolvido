@@ -7,3 +7,4 @@ esse Tutorial pode te ajudar !_**
 
 
 - [passo a passo](PASSO_A_PASSO.md)
+- [avisos](aviso.md)
